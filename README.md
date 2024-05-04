@@ -1,4 +1,4 @@
-# Arabic NLP Lab Analysis
+# Arabic NLP Lab 1 Analysis
 ## Project Overview
 This project encompasses a series of natural language processing (NLP) tasks performed on Arabic text scraped from Al Jazeera articles about the Russia-Ukraine conflict. Utilizing Python and several NLP libraries, including BeautifulSoup for web scraping, MongoDB for data storage, and Stanza for advanced linguistic processing, this lab aims to demonstrate the application of text preprocessing, part-of-speech (POS) tagging, and named entity recognition (NER) within the context of Arabic language processing.
 
